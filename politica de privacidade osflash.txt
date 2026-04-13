@@ -1,6 +1,6 @@
 # Política de Privacidade - OS Flash
 
-Esta política de privacidade descreve como o aplicativo **OS Flash**, desenvolvido por **Marcelo Klein**, coleta, usa e protege as informações dos usuários.
+Esta política de privacidade descreve como o aplicativo **OS Flash**, coleta, usa e protege as informações dos usuários.
 
 ## 1. Coleta de Informações
 O OS Flash coleta informações de forma limitada para garantir o funcionamento das ordens de serviço e a monetização do app:
@@ -24,5 +24,5 @@ Podemos atualizar nossa Política de Privacidade ocasionalmente. Recomendamos qu
 
 ## 6. Contato
 Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato:
-**Desenvolvedor:** Marcelo Klein  
-**E-mail:** [Seu E-mail aqui]
+
+**E-mail: kleinm.manutecoes@gmail.com** 
